@@ -1,2 +1,2 @@
-# DBZ-Top-10
+# DBZTop10
 Top 10 DBZ Characters. 
